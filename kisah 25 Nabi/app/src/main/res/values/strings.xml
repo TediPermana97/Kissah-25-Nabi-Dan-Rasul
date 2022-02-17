@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cerita Kisah 25 Nabi dan Rasul</string>
+    <string name="web_dev">https://aliendro.id/</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_more">More Apps</string>
+    <string name="menu_update">Check Update</string>
+    <string name="menu_share">Share App</string>
+    <string name="menu_rate">Rate Us</string>
+    <string name="title_search">search</string>
+    <string name="shareit">"Download Cerita Kisah 25 Nabi dan Rasul for Android "</string>
+    <string name="admobappid">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="sdk_key_applovin">5UhA2fX7QnsiNAwdmPdJW-QTCSqDx1ssvQm1QC252VUsD0sLAG1-2hpDaqHKsM3ZwH0RlcTNcLKTn-gB_xBeBo</string>
+</resources>
